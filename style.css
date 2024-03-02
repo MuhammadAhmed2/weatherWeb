@@ -16,6 +16,13 @@ body{
     background-attachment: fixed;
     background-position: center;
 }
+.error{
+    text-align: left;
+    margin-left: 10px;
+    font-size: 20px;
+    margin-top: 10px;
+    display: none;
+}
 .card{
     text-align: center;
 }
