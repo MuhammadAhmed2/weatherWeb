@@ -51,6 +51,7 @@ body{
 }
 .weather{
     margin-top: 50px;
+    display: none;
 }
 .weather-icon{
     width: 20%;
